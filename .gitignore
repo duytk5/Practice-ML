@@ -14,7 +14,8 @@
 
 # Generated files
 .idea/**/contentModel.xml
-
+.idea/
+.idea/*.xml
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -207,5 +208,7 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
+data/
+corpus/
 
 # End of https://www.gitignore.io/api/pydev,python,pycharm
