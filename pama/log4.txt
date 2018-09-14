@@ -1,0 +1,2352 @@
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 18 : reward -500
+Episode 19 : reward -500
+Episode 20 : reward -500
+Episode 21 : reward -500
+Episode 22 : reward -500
+Episode 23 : reward -500
+Episode 24 : reward -500
+Episode 25 : reward -500
+Episode 26 : reward -500
+Episode 27 : reward -500
+Episode 28 : reward -500
+Episode 29 : reward -500
+Episode 30 : reward -500
+Episode 31 : reward -500
+Episode 32 : reward -500
+Episode 33 : reward -500
+Episode 34 : reward -500
+Episode 35 : reward -500
+Episode 36 : reward -500
+Episode 37 : reward -500
+Episode 38 : reward -500
+Episode 39 : reward -500
+Episode 40 : reward -500
+Episode 41 : reward -500
+Episode 42 : reward -500
+Episode 43 : reward -500
+Episode 44 : reward -500
+Episode 45 : reward -500
+Episode 46 : reward -500
+Episode 47 : reward -500
+Episode 48 : reward -500
+Episode 49 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 18 : reward -500
+Episode 19 : reward -500
+Episode 20 : reward -500
+Episode 21 : reward -500
+Episode 22 : reward -500
+Episode 23 : reward -500
+Episode 24 : reward -500
+Episode 25 : reward -500
+Episode 26 : reward -500
+Episode 27 : reward -500
+Episode 28 : reward -500
+Episode 29 : reward -500
+Episode 30 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 18 : reward -500
+Episode 19 : reward -500
+Episode 20 : reward -500
+Episode 21 : reward -500
+Episode 22 : reward -500
+Episode 23 : reward -500
+Episode 24 : reward -500
+Episode 25 : reward -500
+Episode 26 : reward -500
+Episode 27 : reward -500
+Episode 28 : reward -500
+Episode 29 : reward -500
+Episode 30 : reward -500
+Episode 31 : reward -500
+Episode 32 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 18 : reward -500
+Episode 19 : reward -500
+Episode 20 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 18 : reward -500
+Episode 19 : reward -500
+Episode 20 : reward -500
+Episode 21 : reward -500
+Episode 22 : reward -500
+Episode 23 : reward -500
+Episode 24 : reward -500
+Episode 25 : reward -500
+Episode 26 : reward -500
+Episode 27 : reward -500
+Episode 28 : reward -500
+Episode 29 : reward -500
+Episode 30 : reward -500
+Episode 31 : reward -500
+Episode 32 : reward -500
+Episode 33 : reward -500
+Episode 34 : reward -500
+Episode 35 : reward -500
+Episode 36 : reward -500
+Episode 37 : reward -500
+Episode 38 : reward -500
+Episode 39 : reward -500
+Episode 40 : reward -500
+Episode 41 : reward -500
+Episode 42 : reward -500
+Episode 43 : reward -500
+Episode 44 : reward -500
+Episode 45 : reward -500
+Episode 46 : reward -500
+Episode 47 : reward -500
+Episode 48 : reward -500
+Episode 49 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 18 : reward -500
+Episode 19 : reward -500
+Episode 20 : reward -500
+Episode 21 : reward -500
+Episode 22 : reward -500
+Episode 23 : reward -500
+Episode 24 : reward -500
+Episode 25 : reward -500
+Episode 26 : reward -500
+Episode 27 : reward -500
+Episode 28 : reward -500
+Episode 29 : reward -500
+Episode 30 : reward -500
+Episode 31 : reward -500
+Episode 32 : reward -500
+Episode 33 : reward -500
+Episode 34 : reward -500
+Episode 35 : reward -500
+Episode 36 : reward -500
+Episode 37 : reward -500
+Episode 38 : reward -500
+Episode 39 : reward -500
+Episode 40 : reward -500
+Episode 41 : reward -500
+Episode 42 : reward -500
+Episode 43 : reward -500
+Episode 44 : reward -500
+Episode 45 : reward -500
+Episode 46 : reward -500
+Episode 47 : reward -500
+Episode 48 : reward -500
+Episode 49 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 12 : reward -500
+Episode 13 : reward -500
+Episode 14 : reward -500
+Episode 15 : reward -500
+Episode 16 : reward -500
+Episode 17 : reward -500
+Episode 18 : reward -500
+Episode 19 : reward -500
+Episode 20 : reward -500
+Episode 21 : reward -500
+Episode 22 : reward -500
+Episode 23 : reward -500
+Episode 24 : reward -500
+Episode 25 : reward -500
+Episode 26 : reward -500
+Episode 27 : reward -500
+Episode 28 : reward -500
+Episode 29 : reward -500
+Episode 30 : reward -500
+Episode 31 : reward -500
+Episode 32 : reward -500
+Episode 33 : reward -500
+Episode 34 : reward -500
+Episode 35 : reward -500
+Episode 36 : reward -500
+Episode 37 : reward -500
+Episode 38 : reward -500
+Episode 39 : reward -500
+Episode 40 : reward -500
+Episode 41 : reward -500
+Episode 42 : reward -500
+Episode 43 : reward -500
+Episode 44 : reward -500
+Episode 45 : reward -500
+Episode 46 : reward -500
+Episode 47 : reward -500
+Episode 48 : reward -500
+Episode 49 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 0 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 10 : reward -500
+Episode 11 : reward -500
+Episode 0 : reward -500
+Episode 1 : reward -500
+Episode 2 : reward -500
+Episode 3 : reward -500
+Episode 4 : reward -500
+Episode 5 : reward -500
+Episode 6 : reward -500
+Episode 7 : reward -500
+Episode 8 : reward -500
+Episode 9 : reward -500
+Episode 0 : reward -500 < totaldot 62
+Episode 1 : reward -500 < totaldot 62
+Episode 2 : reward -500 < totaldot 62
+Episode 3 : reward -500 < totaldot 62
+Episode 4 : reward -500 < totaldot 62
+Episode 5 : reward -500 < totaldot 62
+Episode 6 : reward -500 < totaldot 62
+Episode 7 : reward -500 < totaldot 62
+Episode 8 : reward -500 < totaldot 62
+Episode 9 : reward -500 < totaldot 62
+Episode 10 : reward -500 < totaldot 62
+Episode 0 : reward -500 < mydot 9:62
+Episode 1 : reward -500 < mydot 24:62
+Episode 2 : reward -500 < mydot 5:62
+Episode 3 : reward -500 < mydot 12:62
+Episode 4 : reward -500 < mydot 8:62
+Episode 5 : reward -500 < mydot 1:62
+Episode 6 : reward -500 < mydot 10:62
+Episode 7 : reward -500 < mydot 36:62
+Episode 8 : reward -500 < mydot 3:62
+Episode 9 : reward -500 < mydot 7:62
+Episode 10 : reward -500 < mydot 9:62
+Episode 11 : reward -500 < mydot 13:62
+Episode 12 : reward -500 < mydot 5:62
+Episode 13 : reward -500 < mydot 2:62
+Episode 14 : reward -500 < mydot 6:62
+Episode 15 : reward -500 < mydot 13:62
+Episode 16 : reward -500 < mydot 18:62
+Episode 17 : reward -500 < mydot 8:62
+Episode 18 : reward -500 < mydot 6:62
+Episode 19 : reward -500 < mydot 8:62
+Episode 20 : reward -500 < mydot 10:62
+Episode 21 : reward -500 < mydot 3:62
+Episode 22 : reward -500 < mydot 10:62
+Episode 23 : reward -500 < mydot 9:62
+Episode 24 : reward -500 < mydot 7:62
+Episode 25 : reward -500 < mydot 12:62
+Episode 26 : reward -500 < mydot 36:62
+Episode 27 : reward -500 < mydot 8:62
+Episode 28 : reward -500 < mydot 14:62
+Episode 29 : reward -500 < mydot 11:62
+Episode 30 : reward -500 < mydot 14:62
+Episode 31 : reward -500 < mydot 5:62
+Episode 32 : reward -500 < mydot 18:62
+Episode 33 : reward -500 < mydot 8:62
+Episode 34 : reward -500 < mydot 6:62
+Episode 35 : reward -500 < mydot 14:62
+Episode 36 : reward -500 < mydot 12:62
+Episode 37 : reward -500 < mydot 12:62
+Episode 38 : reward -500 < mydot 20:62
+Episode 39 : reward -500 < mydot 22:62
+Episode 40 : reward -500 < mydot 5:62
+Episode 41 : reward -500 < mydot 5:62
+Episode 42 : reward -500 < mydot 13:62
+Episode 43 : reward -500 < mydot 15:62
+Episode 44 : reward -500 < mydot 5:62
+Episode 45 : reward -500 < mydot 24:62
+Episode 46 : reward -500 < mydot 29:62
+Episode 47 : reward -500 < mydot 8:62
+Episode 48 : reward -500 < mydot 7:62
+Episode 49 : reward -500 < mydot 7:62
+Episode 50 : reward -500 < mydot 10:62
+Episode 51 : reward -500 < mydot 17:62
+Episode 52 : reward -500 < mydot 12:62
+Episode 53 : reward -500 < mydot 16:62
+Episode 54 : reward -500 < mydot 13:62
+Episode 55 : reward -500 < mydot 5:62
+Episode 56 : reward -500 < mydot 11:62
+Episode 57 : reward -500 < mydot 20:62
+Episode 58 : reward -500 < mydot 17:62
+Episode 59 : reward -500 < mydot 17:62
+Episode 60 : reward -500 < mydot 9:62
+Episode 61 : reward -500 < mydot 17:62
+Episode 62 : reward -500 < mydot 24:62
+Episode 63 : reward -500 < mydot 13:62
+Episode 64 : reward -500 < mydot 5:62
+Episode 65 : reward -500 < mydot 17:62
+Episode 66 : reward -500 < mydot 5:62
+Episode 67 : reward -500 < mydot 6:62
+Episode 68 : reward -500 < mydot 15:62
+Episode 69 : reward -500 < mydot 11:62
+Episode 70 : reward -500 < mydot 19:62
+Episode 71 : reward -500 < mydot 19:62
+Episode 72 : reward -500 < mydot 9:62
+Episode 73 : reward -500 < mydot 15:62
+Episode 74 : reward -500 < mydot 10:62
+Episode 75 : reward -500 < mydot 5:62
+Episode 76 : reward -500 < mydot 12:62
+Episode 77 : reward -500 < mydot 16:62
+Episode 78 : reward -500 < mydot 10:62
+Episode 79 : reward -500 < mydot 12:62
+Episode 80 : reward -500 < mydot 10:62
+Episode 81 : reward -500 < mydot 12:62
+Episode 82 : reward -500 < mydot 18:62
+Episode 83 : reward -500 < mydot 10:62
+Episode 84 : reward -500 < mydot 13:62
+Episode 85 : reward -500 < mydot 10:62
+Episode 86 : reward -500 < mydot 6:62
+Episode 87 : reward -500 < mydot 5:62
+Episode 88 : reward -500 < mydot 12:62
+Episode 89 : reward -500 < mydot 9:62
+Episode 90 : reward -500 < mydot 14:62
+Episode 91 : reward -500 < mydot 9:62
+Episode 92 : reward -500 < mydot 7:62
+Episode 93 : reward -500 < mydot 9:62
+Episode 94 : reward -500 < mydot 7:62
+Episode 95 : reward -500 < mydot 8:62
+Episode 96 : reward -500 < mydot 9:62
+Episode 97 : reward -500 < mydot 5:62
+Episode 98 : reward -500 < mydot 5:62
+Episode 99 : reward -500 < mydot 10:62
+Episode 100 : reward -500 < mydot 11:62
+Episode 101 : reward -500 < mydot 11:62
+Episode 102 : reward -500 < mydot 10:62
+Episode 103 : reward -500 < mydot 10:62
+Episode 104 : reward -500 < mydot 5:62
+Episode 105 : reward -500 < mydot 12:62
+Episode 106 : reward -500 < mydot 10:62
+Episode 107 : reward -500 < mydot 5:62
+Episode 108 : reward -500 < mydot 10:62
+Episode 109 : reward -500 < mydot 9:62
+Episode 110 : reward -500 < mydot 10:62
+Episode 111 : reward -500 < mydot 14:62
+Episode 112 : reward -500 < mydot 5:62
+Episode 113 : reward -500 < mydot 13:62
+Episode 114 : reward -500 < mydot 9:62
+Episode 115 : reward -500 < mydot 5:62
+Episode 116 : reward -500 < mydot 11:62
+Episode 117 : reward -500 < mydot 10:62
+Episode 118 : reward -500 < mydot 5:62
+Episode 119 : reward -500 < mydot 9:62
+Episode 120 : reward -500 < mydot 6:62
+Episode 121 : reward -500 < mydot 5:62
+Episode 122 : reward -500 < mydot 4:62
+Episode 123 : reward -500 < mydot 5:62
+Episode 124 : reward -500 < mydot 10:62
+Episode 125 : reward -500 < mydot 11:62
+Episode 126 : reward -500 < mydot 11:62
+Episode 127 : reward -500 < mydot 11:62
+Episode 128 : reward -500 < mydot 9:62
+Episode 129 : reward -500 < mydot 9:62
+Episode 130 : reward -500 < mydot 9:62
+Episode 131 : reward -500 < mydot 9:62
+Episode 132 : reward -500 < mydot 10:62
+Episode 133 : reward -500 < mydot 9:62
+Episode 134 : reward -500 < mydot 5:62
+Episode 135 : reward -500 < mydot 5:62
+Episode 136 : reward -500 < mydot 9:62
+Episode 137 : reward -500 < mydot 5:62
+Episode 138 : reward -500 < mydot 3:62
+Episode 139 : reward -500 < mydot 9:62
+Episode 140 : reward -500 < mydot 11:62
+Episode 141 : reward -500 < mydot 5:62
+Episode 142 : reward -500 < mydot 9:62
+Episode 143 : reward -500 < mydot 9:62
+Episode 144 : reward -500 < mydot 10:62
+Episode 145 : reward -500 < mydot 10:62
+Episode 146 : reward -500 < mydot 12:62
+Episode 147 : reward -500 < mydot 9:62
+Episode 148 : reward -500 < mydot 10:62
+Episode 149 : reward -500 < mydot 12:62
+Episode 150 : reward -500 < mydot 9:62
+Episode 151 : reward -500 < mydot 12:62
+Episode 152 : reward -500 < mydot 10:62
+Episode 153 : reward -500 < mydot 9:62
+Episode 154 : reward -500 < mydot 8:62
+Episode 155 : reward -500 < mydot 5:62
+Episode 156 : reward -500 < mydot 5:62
+Episode 157 : reward -500 < mydot 9:62
+Episode 158 : reward -500 < mydot 10:62
+Episode 159 : reward -500 < mydot 5:62
+Episode 160 : reward -500 < mydot 10:62
+Episode 161 : reward -500 < mydot 10:62
+Episode 162 : reward -500 < mydot 10:62
+Episode 163 : reward -500 < mydot 12:62
+Episode 164 : reward -500 < mydot 5:62
+Episode 165 : reward -500 < mydot 9:62
+Episode 166 : reward -500 < mydot 9:62
+Episode 167 : reward -500 < mydot 9:62
+Episode 168 : reward -500 < mydot 9:62
+Episode 169 : reward -500 < mydot 9:62
+Episode 170 : reward -500 < mydot 5:62
+Episode 171 : reward -500 < mydot 9:62
+Episode 172 : reward -500 < mydot 9:62
+Episode 173 : reward -500 < mydot 11:62
+Episode 174 : reward -500 < mydot 11:62
+Episode 175 : reward -500 < mydot 5:62
+Episode 176 : reward -500 < mydot 9:62
+Episode 177 : reward -500 < mydot 11:62
+Episode 178 : reward -500 < mydot 9:62
+Episode 179 : reward -500 < mydot 12:62
+Episode 180 : reward -500 < mydot 10:62
+Episode 181 : reward -500 < mydot 11:62
+Episode 182 : reward -500 < mydot 9:62
+Episode 183 : reward -500 < mydot 7:62
+Episode 184 : reward -500 < mydot 9:62
+Episode 185 : reward -500 < mydot 9:62
+Episode 186 : reward -500 < mydot 9:62
+Episode 187 : reward -500 < mydot 5:62
+Episode 188 : reward -500 < mydot 6:62
+Episode 189 : reward -500 < mydot 10:62
+Episode 190 : reward -500 < mydot 9:62
+Episode 191 : reward -500 < mydot 11:62
+Episode 192 : reward -500 < mydot 9:62
+Episode 193 : reward -500 < mydot 8:62
+Episode 194 : reward -500 < mydot 9:62
+Episode 195 : reward -500 < mydot 9:62
+Episode 196 : reward -500 < mydot 9:62
+Episode 197 : reward -500 < mydot 10:62
+Episode 198 : reward -500 < mydot 9:62
+Episode 199 : reward -500 < mydot 9:62
+Episode 200 : reward -500 < mydot 9:62
+Episode 201 : reward -500 < mydot 10:62
+Episode 202 : reward -500 < mydot 8:62
+Episode 203 : reward -500 < mydot 7:62
+Episode 204 : reward -500 < mydot 3:62
+Episode 205 : reward -500 < mydot 9:62
+Episode 206 : reward -500 < mydot 5:62
+Episode 207 : reward -500 < mydot 10:62
+Episode 208 : reward -500 < mydot 9:62
+Episode 209 : reward -500 < mydot 9:62
+Episode 210 : reward -500 < mydot 8:62
+Episode 211 : reward -500 < mydot 8:62
+Episode 212 : reward -500 < mydot 5:62
+Episode 213 : reward -500 < mydot 9:62
+Episode 214 : reward -500 < mydot 5:62
+Episode 215 : reward -500 < mydot 5:62
+Episode 216 : reward -500 < mydot 5:62
+Episode 217 : reward -500 < mydot 5:62
+Episode 218 : reward -500 < mydot 9:62
+Episode 219 : reward -500 < mydot 9:62
+Episode 220 : reward -500 < mydot 5:62
+Episode 221 : reward -500 < mydot 10:62
+Episode 222 : reward -500 < mydot 9:62
+Episode 223 : reward -500 < mydot 10:62
+Episode 224 : reward -500 < mydot 10:62
+Episode 225 : reward -500 < mydot 13:62
+Episode 226 : reward -500 < mydot 5:62
+Episode 227 : reward -500 < mydot 5:62
+Episode 228 : reward -500 < mydot 5:62
+Episode 229 : reward -500 < mydot 5:62
+Episode 230 : reward -500 < mydot 11:62
+Episode 231 : reward -500 < mydot 12:62
+Episode 232 : reward -500 < mydot 10:62
+Episode 233 : reward -500 < mydot 5:62
+Episode 234 : reward -500 < mydot 9:62
+Episode 235 : reward -500 < mydot 5:62
+Episode 236 : reward -500 < mydot 5:62
+Episode 237 : reward -500 < mydot 5:62
+Episode 238 : reward -500 < mydot 8:62
+Episode 239 : reward -500 < mydot 5:62
+Episode 240 : reward -500 < mydot 8:62
+Episode 241 : reward -500 < mydot 5:62
+Episode 242 : reward -500 < mydot 5:62
+Episode 243 : reward -500 < mydot 12:62
+Episode 244 : reward -500 < mydot 10:62
+Episode 245 : reward -500 < mydot 10:62
+Episode 246 : reward -500 < mydot 9:62
+Episode 247 : reward -500 < mydot 3:62
+Episode 248 : reward -500 < mydot 9:62
+Episode 249 : reward -500 < mydot 9:62
+Episode 250 : reward -500 < mydot 10:62
+Episode 251 : reward -500 < mydot 12:62
+Episode 252 : reward -500 < mydot 9:62
+Episode 253 : reward -500 < mydot 7:62
+Episode 254 : reward -500 < mydot 6:62
+Episode 255 : reward -500 < mydot 11:62
+Episode 256 : reward -500 < mydot 9:62
+Episode 257 : reward -500 < mydot 8:62
+Episode 258 : reward -500 < mydot 9:62
+Episode 259 : reward -500 < mydot 9:62
+Episode 260 : reward -500 < mydot 5:62
+Episode 261 : reward -500 < mydot 5:62
+Episode 262 : reward -500 < mydot 10:62
+Episode 263 : reward -500 < mydot 5:62
+Episode 264 : reward -500 < mydot 5:62
+Episode 265 : reward -500 < mydot 11:62
+Episode 266 : reward -500 < mydot 9:62
+Episode 267 : reward -500 < mydot 11:62
+Episode 268 : reward -500 < mydot 9:62
+Episode 269 : reward -500 < mydot 9:62
+Episode 270 : reward -500 < mydot 8:62
+Episode 271 : reward -500 < mydot 6:62
+Episode 272 : reward -500 < mydot 5:62
+Episode 273 : reward -500 < mydot 7:62
+Episode 274 : reward -500 < mydot 8:62
+Episode 275 : reward -500 < mydot 13:62
+Episode 276 : reward -500 < mydot 10:62
+Episode 277 : reward -500 < mydot 13:62
+Episode 278 : reward -500 < mydot 10:62
+Episode 279 : reward -500 < mydot 5:62
+Episode 280 : reward -500 < mydot 9:62
+Episode 281 : reward -500 < mydot 5:62
+Episode 282 : reward -500 < mydot 10:62
+Episode 283 : reward -500 < mydot 10:62
+Episode 284 : reward -500 < mydot 11:62
+Episode 285 : reward -500 < mydot 12:62
+Episode 286 : reward -500 < mydot 12:62
+Episode 287 : reward -500 < mydot 5:62
+Episode 288 : reward -500 < mydot 9:62
+Episode 289 : reward -500 < mydot 10:62
+Episode 290 : reward -500 < mydot 7:62
+Episode 291 : reward -500 < mydot 5:62
+Episode 292 : reward -500 < mydot 5:62
+Episode 293 : reward -500 < mydot 13:62
+Episode 294 : reward -500 < mydot 10:62
+Episode 295 : reward -500 < mydot 9:62
+Episode 296 : reward -500 < mydot 6:62
+Episode 297 : reward -500 < mydot 12:62
+Episode 298 : reward -500 < mydot 9:62
+Episode 299 : reward -500 < mydot 5:62
+Episode 300 : reward -500 < mydot 5:62
+Episode 301 : reward -500 < mydot 5:62
+Episode 302 : reward -500 < mydot 15:62
+Episode 303 : reward -500 < mydot 9:62
+Episode 304 : reward -500 < mydot 11:62
+Episode 305 : reward -500 < mydot 5:62
+Episode 306 : reward -500 < mydot 8:62
+Episode 307 : reward -500 < mydot 9:62
+Episode 308 : reward -500 < mydot 14:62
+Episode 309 : reward -500 < mydot 9:62
+Episode 310 : reward -500 < mydot 10:62
+Episode 311 : reward -500 < mydot 13:62
+Episode 312 : reward -500 < mydot 7:62
+Episode 313 : reward -500 < mydot 5:62
+Episode 314 : reward -500 < mydot 5:62
+Episode 315 : reward -500 < mydot 12:62
+Episode 316 : reward -500 < mydot 10:62
+Episode 317 : reward -500 < mydot 7:62
+Episode 318 : reward -500 < mydot 17:62
+Episode 319 : reward -500 < mydot 8:62
+Episode 320 : reward -500 < mydot 8:62
+Episode 321 : reward -500 < mydot 5:62
+Episode 322 : reward -500 < mydot 12:62
+Episode 323 : reward -500 < mydot 7:62
+Episode 324 : reward -500 < mydot 10:62
+Episode 325 : reward -500 < mydot 13:62
+Episode 326 : reward -500 < mydot 12:62
+Episode 327 : reward -500 < mydot 9:62
+Episode 328 : reward -500 < mydot 5:62
+Episode 329 : reward -500 < mydot 9:62
+Episode 330 : reward -500 < mydot 9:62
+Episode 331 : reward -500 < mydot 12:62
+Episode 332 : reward -500 < mydot 9:62
+Episode 333 : reward -500 < mydot 5:62
+Episode 334 : reward -500 < mydot 13:62
+Episode 335 : reward -500 < mydot 10:62
+Episode 336 : reward -500 < mydot 5:62
+Episode 337 : reward -500 < mydot 20:62
+Episode 338 : reward -500 < mydot 9:62
+Episode 339 : reward -500 < mydot 9:62
+Episode 340 : reward -500 < mydot 10:62
+Episode 341 : reward -500 < mydot 5:62
+Episode 342 : reward -500 < mydot 12:62
+Episode 343 : reward -500 < mydot 5:62
+Episode 344 : reward -500 < mydot 10:62
+Episode 345 : reward -500 < mydot 14:62
+Episode 346 : reward -500 < mydot 17:62
+Episode 347 : reward -500 < mydot 15:62
+Episode 348 : reward -500 < mydot 6:62
+Episode 349 : reward -500 < mydot 11:62
+Episode 350 : reward -500 < mydot 10:62
+Episode 351 : reward -500 < mydot 10:62
+Episode 352 : reward -500 < mydot 5:62
+Episode 353 : reward -500 < mydot 5:62
+Episode 354 : reward -500 < mydot 5:62
+Episode 355 : reward -500 < mydot 5:62
+Episode 356 : reward -500 < mydot 12:62
+Episode 357 : reward -500 < mydot 12:62
+Episode 358 : reward -500 < mydot 5:62
+Episode 359 : reward -500 < mydot 11:62
+Episode 360 : reward -500 < mydot 5:62
+Episode 361 : reward -500 < mydot 8:62
+Episode 362 : reward -500 < mydot 10:62
+Episode 363 : reward -500 < mydot 11:62
+Episode 364 : reward -500 < mydot 10:62
+Episode 365 : reward -500 < mydot 11:62
+Episode 366 : reward -500 < mydot 5:62
+Episode 367 : reward -500 < mydot 7:62
+Episode 368 : reward -500 < mydot 6:62
+Episode 369 : reward -500 < mydot 5:62
+Episode 370 : reward -500 < mydot 11:62
+Episode 371 : reward -500 < mydot 14:62
+Episode 372 : reward -500 < mydot 9:62
+Episode 373 : reward -500 < mydot 10:62
+Episode 374 : reward -500 < mydot 10:62
+Episode 375 : reward -500 < mydot 8:62
+Episode 376 : reward -500 < mydot 10:62
+Episode 377 : reward -500 < mydot 11:62
+Episode 378 : reward -500 < mydot 10:62
+Episode 379 : reward -500 < mydot 8:62
+Episode 380 : reward -500 < mydot 18:62
+Episode 381 : reward -500 < mydot 8:62
+Episode 382 : reward -500 < mydot 5:62
+Episode 383 : reward -500 < mydot 9:62
+Episode 384 : reward -500 < mydot 3:62
+Episode 385 : reward -500 < mydot 9:62
+Episode 386 : reward -500 < mydot 9:62
+Episode 387 : reward -500 < mydot 5:62
+Episode 388 : reward -500 < mydot 14:62
+Episode 389 : reward -500 < mydot 10:62
+Episode 390 : reward -500 < mydot 10:62
+Episode 391 : reward -500 < mydot 5:62
+Episode 392 : reward -500 < mydot 10:62
+Episode 393 : reward -500 < mydot 8:62
+Episode 394 : reward -500 < mydot 5:62
+Episode 395 : reward -500 < mydot 13:62
+Episode 396 : reward -500 < mydot 7:62
+Episode 397 : reward -500 < mydot 6:62
+Episode 398 : reward -500 < mydot 5:62
+Episode 399 : reward -500 < mydot 8:62
+Episode 400 : reward -500 < mydot 5:62
+Episode 401 : reward -500 < mydot 5:62
+Episode 402 : reward -500 < mydot 9:62
+Episode 403 : reward -500 < mydot 15:62
+Episode 404 : reward -500 < mydot 8:62
+Episode 405 : reward -500 < mydot 7:62
+Episode 406 : reward -500 < mydot 10:62
+Episode 407 : reward -500 < mydot 13:62
+Episode 408 : reward -500 < mydot 10:62
+Episode 409 : reward -500 < mydot 12:62
+Episode 410 : reward -500 < mydot 10:62
+Episode 411 : reward -500 < mydot 8:62
+Episode 412 : reward -500 < mydot 10:62
+Episode 413 : reward -500 < mydot 8:62
+Episode 414 : reward -500 < mydot 8:62
+Episode 415 : reward -500 < mydot 5:62
+Episode 416 : reward -500 < mydot 11:62
+Episode 417 : reward -500 < mydot 10:62
+Episode 418 : reward -500 < mydot 5:62
+Episode 419 : reward -500 < mydot 9:62
+Episode 420 : reward -500 < mydot 6:62
+Episode 421 : reward -500 < mydot 10:62
+Episode 422 : reward -500 < mydot 8:62
+Episode 423 : reward -500 < mydot 5:62
+Episode 424 : reward -500 < mydot 8:62
+Episode 425 : reward -500 < mydot 5:62
+Episode 426 : reward -500 < mydot 5:62
+Episode 427 : reward -500 < mydot 7:62
+Episode 428 : reward -500 < mydot 5:62
+Episode 429 : reward -500 < mydot 7:62
+Episode 430 : reward -500 < mydot 14:62
+Episode 431 : reward -500 < mydot 9:62
+Episode 432 : reward -500 < mydot 5:62
+Episode 433 : reward -500 < mydot 8:62
+Episode 434 : reward -500 < mydot 10:62
+Episode 435 : reward -500 < mydot 10:62
+Episode 436 : reward -500 < mydot 5:62
+Episode 437 : reward -500 < mydot 9:62
+Episode 438 : reward -500 < mydot 7:62
+Episode 439 : reward -500 < mydot 11:62
+Episode 440 : reward -500 < mydot 5:62
+Episode 441 : reward -500 < mydot 10:62
+Episode 442 : reward -500 < mydot 9:62
+Episode 443 : reward -500 < mydot 5:62
+Episode 444 : reward -500 < mydot 8:62
+Episode 445 : reward -500 < mydot 5:62
+Episode 446 : reward -500 < mydot 5:62
+Episode 447 : reward -500 < mydot 10:62
+Episode 448 : reward -500 < mydot 13:62
+Episode 449 : reward -500 < mydot 7:62
+Episode 450 : reward -500 < mydot 5:62
+Episode 451 : reward -500 < mydot 12:62
+Episode 452 : reward -500 < mydot 8:62
+Episode 453 : reward -500 < mydot 9:62
+Episode 454 : reward -500 < mydot 9:62
+Episode 455 : reward -500 < mydot 11:62
+Episode 456 : reward -500 < mydot 7:62
+Episode 457 : reward -500 < mydot 9:62
+Episode 458 : reward -500 < mydot 8:62
+Episode 459 : reward -500 < mydot 13:62
+Episode 460 : reward -500 < mydot 10:62
+Episode 461 : reward -500 < mydot 7:62
+Episode 462 : reward -500 < mydot 8:62
+Episode 463 : reward -500 < mydot 9:62
+Episode 464 : reward -500 < mydot 10:62
+Episode 465 : reward -500 < mydot 6:62
+Episode 466 : reward -500 < mydot 6:62
+Episode 467 : reward -500 < mydot 5:62
+Episode 468 : reward -500 < mydot 13:62
+Episode 469 : reward -500 < mydot 15:62
+Episode 470 : reward -500 < mydot 9:62
+Episode 471 : reward -500 < mydot 8:62
+Episode 472 : reward -500 < mydot 7:62
+Episode 473 : reward -500 < mydot 7:62
+Episode 474 : reward -500 < mydot 9:62
+Episode 475 : reward -500 < mydot 16:62
+Episode 476 : reward -500 < mydot 5:62
+Episode 477 : reward -500 < mydot 7:62
+Episode 478 : reward -500 < mydot 10:62
+Episode 479 : reward -500 < mydot 10:62
+Episode 480 : reward -500 < mydot 10:62
+Episode 481 : reward -500 < mydot 10:62
+Episode 482 : reward -500 < mydot 9:62
+Episode 483 : reward -500 < mydot 11:62
+Episode 484 : reward -500 < mydot 5:62
+Episode 485 : reward -500 < mydot 9:62
+Episode 486 : reward -500 < mydot 5:62
+Episode 487 : reward -500 < mydot 5:62
+Episode 488 : reward -500 < mydot 15:62
+Episode 489 : reward -500 < mydot 5:62
+Episode 490 : reward -500 < mydot 11:62
+Episode 491 : reward -500 < mydot 12:62
+Episode 492 : reward -500 < mydot 7:62
+Episode 493 : reward -500 < mydot 9:62
+Episode 494 : reward -500 < mydot 8:62
+Episode 495 : reward -500 < mydot 9:62
+Episode 496 : reward -500 < mydot 9:62
+Episode 497 : reward -500 < mydot 7:62
+Episode 498 : reward -500 < mydot 5:62
+Episode 499 : reward -500 < mydot 10:62
+Episode 500 : reward -500 < mydot 9:62
+Episode 501 : reward -500 < mydot 11:62
+Episode 502 : reward -500 < mydot 11:62
+Episode 503 : reward -500 < mydot 9:62
+Episode 504 : reward -500 < mydot 5:62
+Episode 505 : reward -500 < mydot 5:62
+Episode 506 : reward -500 < mydot 14:62
+Episode 507 : reward -500 < mydot 11:62
+Episode 508 : reward -500 < mydot 5:62
+Episode 509 : reward -500 < mydot 12:62
+Episode 510 : reward -500 < mydot 10:62
+Episode 511 : reward -500 < mydot 10:62
+Episode 512 : reward -500 < mydot 9:62
+Episode 513 : reward -500 < mydot 9:62
+Episode 514 : reward -500 < mydot 7:62
+Episode 515 : reward -500 < mydot 9:62
+Episode 516 : reward -500 < mydot 5:62
+Episode 517 : reward -500 < mydot 9:62
+Episode 518 : reward -500 < mydot 9:62
+Episode 519 : reward -500 < mydot 11:62
+Episode 520 : reward -500 < mydot 5:62
+Episode 521 : reward -500 < mydot 5:62
+Episode 522 : reward -500 < mydot 9:62
+Episode 523 : reward -500 < mydot 7:62
+Episode 524 : reward -500 < mydot 11:62
+Episode 525 : reward -500 < mydot 9:62
+Episode 526 : reward -500 < mydot 7:62
+Episode 527 : reward -500 < mydot 9:62
+Episode 528 : reward -500 < mydot 11:62
+Episode 529 : reward -500 < mydot 11:62
+Episode 530 : reward -500 < mydot 9:62
+Episode 531 : reward -500 < mydot 14:62
+Episode 532 : reward -500 < mydot 9:62
+Episode 533 : reward -500 < mydot 12:62
+Episode 534 : reward -500 < mydot 10:62
+Episode 535 : reward -500 < mydot 9:62
+Episode 536 : reward -500 < mydot 9:62
+Episode 537 : reward -500 < mydot 10:62
+Episode 538 : reward -500 < mydot 5:62
+Episode 539 : reward -500 < mydot 5:62
+Episode 540 : reward -500 < mydot 9:62
+Episode 541 : reward -500 < mydot 17:62
+Episode 542 : reward -500 < mydot 12:62
+Episode 543 : reward -500 < mydot 17:62
+Episode 544 : reward -500 < mydot 9:62
+Episode 545 : reward -500 < mydot 9:62
+Episode 546 : reward -500 < mydot 10:62
+Episode 547 : reward -500 < mydot 11:62
+Episode 548 : reward -500 < mydot 9:62
+Episode 549 : reward -500 < mydot 5:62
+Episode 550 : reward -500 < mydot 12:62
+Episode 551 : reward -500 < mydot 9:62
+Episode 552 : reward -500 < mydot 5:62
+Episode 553 : reward -500 < mydot 11:62
+Episode 554 : reward -500 < mydot 10:62
+Episode 555 : reward -500 < mydot 9:62
+Episode 556 : reward -500 < mydot 12:62
+Episode 557 : reward -500 < mydot 13:62
+Episode 558 : reward -500 < mydot 12:62
+Episode 559 : reward -500 < mydot 14:62
+Episode 560 : reward -500 < mydot 9:62
+Episode 561 : reward -500 < mydot 10:62
+Episode 562 : reward -500 < mydot 13:62
+Episode 563 : reward -500 < mydot 11:62
+Episode 564 : reward -500 < mydot 5:62
+Episode 565 : reward -500 < mydot 5:62
+Episode 566 : reward -500 < mydot 9:62
+Episode 567 : reward -500 < mydot 5:62
+Episode 568 : reward -500 < mydot 5:62
+Episode 569 : reward -500 < mydot 10:62
+Episode 570 : reward -500 < mydot 5:62
+Episode 571 : reward -500 < mydot 10:62
+Episode 572 : reward -500 < mydot 16:62
+Episode 573 : reward -500 < mydot 5:62
+Episode 574 : reward -500 < mydot 5:62
+Episode 575 : reward -500 < mydot 5:62
+Episode 576 : reward -500 < mydot 8:62
+Episode 577 : reward -500 < mydot 5:62
+Episode 578 : reward -500 < mydot 5:62
+Episode 579 : reward -500 < mydot 5:62
+Episode 580 : reward -500 < mydot 5:62
+Episode 581 : reward -500 < mydot 15:62
+Episode 582 : reward -500 < mydot 5:62
+Episode 583 : reward -500 < mydot 5:62
+Episode 584 : reward -500 < mydot 7:62
+Episode 585 : reward -500 < mydot 7:62
+Episode 586 : reward -500 < mydot 9:62
+Episode 587 : reward -500 < mydot 10:62
+Episode 588 : reward -500 < mydot 16:62
+Episode 589 : reward -500 < mydot 7:62
+Episode 590 : reward -500 < mydot 12:62
+Episode 591 : reward -500 < mydot 5:62
+Episode 592 : reward -500 < mydot 5:62
+Episode 593 : reward -500 < mydot 5:62
+Episode 594 : reward -500 < mydot 16:62
+Episode 595 : reward -500 < mydot 16:62
+Episode 596 : reward -500 < mydot 16:62
+Episode 597 : reward -500 < mydot 18:62
+Episode 598 : reward -500 < mydot 16:62
+Episode 599 : reward -500 < mydot 11:62
+Episode 600 : reward -500 < mydot 5:62
+Episode 601 : reward -500 < mydot 16:62
+Episode 602 : reward -500 < mydot 15:62
+Episode 603 : reward -500 < mydot 11:62
+Episode 604 : reward -500 < mydot 17:62
+Episode 605 : reward -500 < mydot 8:62
+Episode 606 : reward -500 < mydot 5:62
+Episode 607 : reward -500 < mydot 11:62
+Episode 608 : reward -500 < mydot 15:62
+Episode 609 : reward -500 < mydot 5:62
+Episode 610 : reward -500 < mydot 17:62
+Episode 611 : reward -500 < mydot 5:62
+Episode 612 : reward -500 < mydot 15:62
+Episode 613 : reward -500 < mydot 15:62
+Episode 614 : reward -500 < mydot 15:62
+Episode 615 : reward -500 < mydot 11:62
+Episode 616 : reward -500 < mydot 13:62
+Episode 617 : reward -500 < mydot 6:62
+Episode 618 : reward -500 < mydot 5:62
+Episode 619 : reward -500 < mydot 17:62
+Episode 620 : reward -500 < mydot 15:62
+Episode 621 : reward -500 < mydot 5:62
+Episode 622 : reward -500 < mydot 5:62
+Episode 623 : reward -500 < mydot 10:62
+Episode 624 : reward -500 < mydot 9:62
+Episode 625 : reward -500 < mydot 17:62
+Episode 626 : reward -500 < mydot 15:62
+Episode 627 : reward -500 < mydot 5:62
+Episode 628 : reward -500 < mydot 5:62
+Episode 629 : reward -500 < mydot 16:62
+Episode 630 : reward -500 < mydot 9:62
+Episode 631 : reward -500 < mydot 15:62
+Episode 632 : reward -500 < mydot 14:62
+Episode 633 : reward -500 < mydot 5:62
+Episode 634 : reward -500 < mydot 11:62
+Episode 635 : reward -500 < mydot 9:62
+Episode 636 : reward -500 < mydot 5:62
+Episode 637 : reward -500 < mydot 9:62
+Episode 638 : reward -500 < mydot 7:62
+Episode 639 : reward -500 < mydot 10:62
+Episode 640 : reward -500 < mydot 10:62
+Episode 641 : reward -500 < mydot 12:62
+Episode 642 : reward -500 < mydot 12:62
+Episode 643 : reward -500 < mydot 16:62
+Episode 644 : reward -500 < mydot 7:62
+Episode 645 : reward -500 < mydot 8:62
+Episode 646 : reward -500 < mydot 7:62
+Episode 647 : reward -500 < mydot 7:62
+Episode 648 : reward -500 < mydot 8:62
+Episode 649 : reward -500 < mydot 9:62
+Episode 650 : reward -500 < mydot 5:62
+Episode 651 : reward -500 < mydot 7:62
+Episode 652 : reward -500 < mydot 7:62
+Episode 653 : reward -500 < mydot 11:62
+Episode 654 : reward -500 < mydot 9:62
+Episode 655 : reward -500 < mydot 11:62
+Episode 656 : reward -500 < mydot 10:62
+Episode 657 : reward -500 < mydot 9:62
+Episode 658 : reward -500 < mydot 15:62
+Episode 659 : reward -500 < mydot 17:62
+Episode 660 : reward -500 < mydot 17:62
+Episode 661 : reward -500 < mydot 16:62
+Episode 662 : reward -500 < mydot 10:62
+Episode 663 : reward -500 < mydot 10:62
+Episode 664 : reward -500 < mydot 7:62
+Episode 665 : reward -500 < mydot 5:62
+Episode 666 : reward -500 < mydot 9:62
+Episode 667 : reward -500 < mydot 7:62
+Episode 668 : reward -500 < mydot 9:62
+Episode 669 : reward -500 < mydot 16:62
+Episode 670 : reward -500 < mydot 5:62
+Episode 671 : reward -500 < mydot 9:62
+Episode 672 : reward -500 < mydot 10:62
+Episode 673 : reward -500 < mydot 10:62
+Episode 674 : reward -500 < mydot 16:62
+Episode 675 : reward -500 < mydot 7:62
+Episode 676 : reward -500 < mydot 9:62
+Episode 677 : reward -500 < mydot 7:62
+Episode 678 : reward -500 < mydot 7:62
+Episode 679 : reward -500 < mydot 7:62
+Episode 680 : reward -500 < mydot 10:62
+Episode 681 : reward -500 < mydot 10:62
+Episode 682 : reward -500 < mydot 5:62
+Episode 683 : reward -500 < mydot 9:62
+Episode 684 : reward -500 < mydot 9:62
+Episode 685 : reward -500 < mydot 16:62
+Episode 686 : reward -500 < mydot 10:62
+Episode 687 : reward -500 < mydot 16:62
+Episode 688 : reward -500 < mydot 10:62
+Episode 689 : reward -500 < mydot 17:62
+Episode 690 : reward -500 < mydot 5:62
+Episode 691 : reward -500 < mydot 5:62
+Episode 692 : reward -500 < mydot 16:62
+Episode 693 : reward -500 < mydot 10:62
+Episode 694 : reward -500 < mydot 17:62
+Episode 695 : reward -500 < mydot 9:62
+Episode 696 : reward -500 < mydot 5:62
+Episode 697 : reward -500 < mydot 9:62
+Episode 698 : reward -500 < mydot 7:62
+Episode 699 : reward -500 < mydot 9:62
+Episode 700 : reward -500 < mydot 8:62
+Episode 701 : reward -500 < mydot 9:62
+Episode 702 : reward -500 < mydot 16:62
+Episode 703 : reward -500 < mydot 9:62
+Episode 0 : reward -500 < mydot 19:62
+Episode 0 : reward -500 < mydot 16:62
+Episode 1 : reward -500 < mydot 15:62
+Episode 2 : reward -500 < mydot 22:62
+Episode 3 : reward -500 < mydot 17:62
+Episode 0 : reward -500 < mydot 35:62
+Episode 1 : reward -500 < mydot 22:62
+Episode 0 : reward -500 < mydot 12:62
+Episode 0 : reward -500 < mydot 22:62
+Episode 1 : reward -500 < mydot 27:62
+Episode 2 : reward -500 < mydot 3:62
+Episode 3 : reward -500 < mydot 7:62
+Episode 4 : reward -500 < mydot 7:62
+Episode 0 : reward -500 < mydot 3:62
+Episode 1 : reward -500 < mydot 23:62
+Episode 2 : reward -500 < mydot 3:62
+Episode 3 : reward -500 < mydot 11:62
+Episode 4 : reward -500 < mydot 3:62
+Episode 5 : reward -500 < mydot 17:62
+Episode 6 : reward -500 < mydot 8:62
+Episode 7 : reward -500 < mydot 5:62
+Episode 8 : reward -500 < mydot 5:62
+Episode 9 : reward -500 < mydot 5:62
+Episode 10 : reward -500 < mydot 12:62
+Episode 11 : reward -500 < mydot 6:62
+Episode 12 : reward -500 < mydot 13:62
+Episode 13 : reward -500 < mydot 20:62
+Episode 14 : reward -500 < mydot 11:62
+Episode 15 : reward -500 < mydot 22:62
+Episode 16 : reward -500 < mydot 17:62
+Episode 17 : reward -500 < mydot 18:62
+Episode 18 : reward -500 < mydot 4:62
+Episode 19 : reward -500 < mydot 16:62
+Episode 20 : reward -500 < mydot 5:62
+Episode 21 : reward -500 < mydot 16:62
+Episode 22 : reward -500 < mydot 10:62
+Episode 23 : reward -500 < mydot 4:62
+Episode 24 : reward -500 < mydot 15:62
+Episode 25 : reward -500 < mydot 4:62
+Episode 26 : reward -500 < mydot 5:62
+Episode 27 : reward -500 < mydot 20:62
+Episode 28 : reward -500 < mydot 20:62
+Episode 29 : reward -500 < mydot 4:62
+Episode 30 : reward -500 < mydot 6:62
+Episode 31 : reward -500 < mydot 19:62
+Episode 32 : reward -500 < mydot 4:62
+Episode 33 : reward -500 < mydot 6:62
+Episode 34 : reward -500 < mydot 16:62
+Episode 35 : reward -500 < mydot 6:62
+Episode 36 : reward -500 < mydot 8:62
+Episode 37 : reward -500 < mydot 4:62
+Episode 38 : reward -500 < mydot 12:62
+Episode 39 : reward -500 < mydot 7:62
+Episode 40 : reward -500 < mydot 13:62
+Episode 41 : reward -500 < mydot 4:62
+Episode 42 : reward -500 < mydot 16:62
+Episode 43 : reward -500 < mydot 8:62
+Episode 44 : reward -500 < mydot 4:62
+Episode 45 : reward -500 < mydot 6:62
+Episode 46 : reward -500 < mydot 4:62
+Episode 47 : reward -500 < mydot 5:62
+Episode 48 : reward -500 < mydot 9:62
+Episode 49 : reward -500 < mydot 4:62
+Episode 50 : reward -500 < mydot 23:62
+Episode 51 : reward -500 < mydot 5:62
+Episode 52 : reward -500 < mydot 5:62
+Episode 53 : reward -500 < mydot 7:62
+Episode 54 : reward -500 < mydot 5:62
+Episode 55 : reward -500 < mydot 13:62
+Episode 56 : reward -500 < mydot 6:62
+Episode 57 : reward -500 < mydot 4:62
+Episode 58 : reward -500 < mydot 6:62
+Episode 59 : reward -500 < mydot 4:62
+Episode 60 : reward -500 < mydot 15:62
+Episode 61 : reward -500 < mydot 17:62
+Episode 62 : reward -500 < mydot 19:62
+Episode 63 : reward -500 < mydot 21:62
+Episode 64 : reward -500 < mydot 21:62
+Episode 65 : reward -500 < mydot 19:62
+Episode 66 : reward -500 < mydot 4:62
+Episode 67 : reward -500 < mydot 7:62
+Episode 68 : reward -500 < mydot 4:62
+Episode 69 : reward -500 < mydot 20:62
+Episode 70 : reward -500 < mydot 17:62
+Episode 71 : reward -500 < mydot 11:62
+Episode 72 : reward -500 < mydot 11:62
+Episode 73 : reward -500 < mydot 4:62
+Episode 74 : reward -500 < mydot 22:62
+Episode 75 : reward -500 < mydot 4:62
+Episode 76 : reward -500 < mydot 6:62
+Episode 77 : reward -500 < mydot 16:62
+Episode 78 : reward -500 < mydot 13:62
+Episode 79 : reward -500 < mydot 5:62
+Episode 80 : reward -500 < mydot 15:62
+Episode 81 : reward -500 < mydot 20:62
+Episode 82 : reward -500 < mydot 4:62
+Episode 83 : reward -500 < mydot 8:62
+Episode 84 : reward -500 < mydot 20:62
+Episode 85 : reward -500 < mydot 8:62
+Episode 86 : reward -500 < mydot 17:62
+Episode 87 : reward -500 < mydot 4:62
+Episode 88 : reward -500 < mydot 5:62
+Episode 89 : reward -500 < mydot 5:62
+Episode 90 : reward -500 < mydot 16:62
+Episode 91 : reward -500 < mydot 15:62
+Episode 92 : reward -500 < mydot 18:62
+Episode 93 : reward -500 < mydot 8:62
+Episode 94 : reward -500 < mydot 16:62
+Episode 95 : reward -500 < mydot 4:62
+Episode 96 : reward -500 < mydot 11:62
+Episode 97 : reward -500 < mydot 19:62
+Episode 98 : reward -500 < mydot 4:62
+Episode 99 : reward -500 < mydot 4:62
+Episode 100 : reward -500 < mydot 18:62
+Episode 101 : reward -500 < mydot 18:62
+Episode 102 : reward -500 < mydot 8:62
+Episode 103 : reward -500 < mydot 4:62
+Episode 104 : reward -500 < mydot 14:62
+Episode 105 : reward -500 < mydot 14:62
+Episode 106 : reward -500 < mydot 15:62
+Episode 107 : reward -500 < mydot 14:62
+Episode 108 : reward -500 < mydot 15:62
+Episode 109 : reward -500 < mydot 16:62
+Episode 110 : reward -500 < mydot 12:62
+Episode 111 : reward -500 < mydot 5:62
+Episode 112 : reward -500 < mydot 5:62
+Episode 113 : reward -500 < mydot 14:62
+Episode 114 : reward -500 < mydot 14:62
+Episode 115 : reward -500 < mydot 5:62
+Episode 116 : reward -500 < mydot 10:62
+Episode 117 : reward -500 < mydot 13:62
+Episode 118 : reward -500 < mydot 9:62
+Episode 119 : reward -500 < mydot 4:62
+Episode 120 : reward -500 < mydot 13:62
+Episode 121 : reward -500 < mydot 14:62
+Episode 122 : reward -500 < mydot 9:62
+Episode 123 : reward -500 < mydot 14:62
+Episode 124 : reward -500 < mydot 14:62
+Episode 125 : reward -500 < mydot 15:62
+Episode 126 : reward -500 < mydot 5:62
+Episode 127 : reward -500 < mydot 4:62
+Episode 128 : reward -500 < mydot 8:62
+Episode 129 : reward -500 < mydot 15:62
+Episode 130 : reward -500 < mydot 12:62
+Episode 131 : reward -500 < mydot 5:62
+Episode 132 : reward -500 < mydot 8:62
+Episode 133 : reward -500 < mydot 14:62
+Episode 134 : reward -500 < mydot 4:62
+Episode 135 : reward -500 < mydot 9:62
+Episode 136 : reward -500 < mydot 14:62
+Episode 137 : reward -500 < mydot 15:62
+Episode 138 : reward -500 < mydot 12:62
+Episode 139 : reward -500 < mydot 8:62
+Episode 140 : reward -500 < mydot 14:62
+Episode 141 : reward -500 < mydot 8:62
+Episode 142 : reward -500 < mydot 8:62
+Episode 143 : reward -500 < mydot 8:62
+Episode 144 : reward -500 < mydot 14:62
+Episode 145 : reward -500 < mydot 8:62
+Episode 146 : reward -500 < mydot 5:62
+Episode 147 : reward -500 < mydot 18:62
+Episode 148 : reward -500 < mydot 5:62
+Episode 149 : reward -500 < mydot 9:62
+Episode 150 : reward -500 < mydot 15:62
+Episode 151 : reward -500 < mydot 8:62
+Episode 152 : reward -500 < mydot 9:62
+Episode 153 : reward -500 < mydot 18:62
+Episode 154 : reward -500 < mydot 15:62
+Episode 155 : reward -500 < mydot 9:62
+Episode 156 : reward -500 < mydot 9:62
+Episode 157 : reward -500 < mydot 4:62
+Episode 158 : reward -500 < mydot 15:62
+Episode 159 : reward -500 < mydot 8:62
+Episode 160 : reward -500 < mydot 5:62
+Episode 161 : reward -500 < mydot 9:62
+Episode 162 : reward -500 < mydot 4:62
+Episode 163 : reward -500 < mydot 5:62
+Episode 164 : reward -500 < mydot 5:62
+Episode 165 : reward -500 < mydot 9:62
+Episode 166 : reward -500 < mydot 5:62
+Episode 167 : reward -500 < mydot 8:62
+Episode 168 : reward -500 < mydot 8:62
+Episode 169 : reward -500 < mydot 10:62
+Episode 170 : reward -500 < mydot 15:62
+Episode 171 : reward -500 < mydot 9:62
+Episode 172 : reward -500 < mydot 5:62
+Episode 173 : reward -500 < mydot 5:62
+Episode 174 : reward -500 < mydot 5:62
+Episode 175 : reward -500 < mydot 5:62
+Episode 176 : reward -500 < mydot 5:62
+Episode 177 : reward -500 < mydot 5:62
+Episode 178 : reward -500 < mydot 8:62
+Episode 179 : reward -500 < mydot 18:62
+Episode 180 : reward -500 < mydot 5:62
+Episode 181 : reward -500 < mydot 8:62
+Episode 182 : reward -500 < mydot 5:62
+Episode 183 : reward -500 < mydot 5:62
+Episode 184 : reward -500 < mydot 14:62
+Episode 185 : reward -500 < mydot 9:62
+Episode 186 : reward -500 < mydot 8:62
+Episode 187 : reward -500 < mydot 9:62
+Episode 188 : reward -500 < mydot 9:62
+Episode 189 : reward -500 < mydot 13:62
+Episode 190 : reward -500 < mydot 9:62
+Episode 191 : reward -500 < mydot 8:62
+Episode 192 : reward -500 < mydot 13:62
+Episode 193 : reward -500 < mydot 8:62
+Episode 194 : reward -500 < mydot 8:62
+Episode 195 : reward -500 < mydot 14:62
+Episode 196 : reward -500 < mydot 10:62
+Episode 197 : reward -500 < mydot 5:62
+Episode 198 : reward -500 < mydot 13:62
+Episode 199 : reward -500 < mydot 5:62
+Episode 200 : reward -500 < mydot 14:62
+Episode 201 : reward -500 < mydot 15:62
+Episode 202 : reward -500 < mydot 4:62
+Episode 203 : reward -500 < mydot 14:62
+Episode 204 : reward -500 < mydot 14:62
+Episode 205 : reward -500 < mydot 8:62
+Episode 206 : reward -500 < mydot 15:62
+Episode 207 : reward -500 < mydot 3:62
+Episode 208 : reward -500 < mydot 15:62
+Episode 209 : reward -500 < mydot 11:62
+Episode 210 : reward -500 < mydot 10:62
+Episode 211 : reward -500 < mydot 14:62
+Episode 212 : reward -500 < mydot 11:62
+Episode 213 : reward -500 < mydot 13:62
+Episode 214 : reward -500 < mydot 17:62
+Episode 215 : reward -500 < mydot 3:62
+Episode 216 : reward -500 < mydot 15:62
+Episode 217 : reward -500 < mydot 13:62
+Episode 218 : reward -500 < mydot 12:62
+Episode 219 : reward -500 < mydot 9:62
+Episode 220 : reward -500 < mydot 10:62
+Episode 221 : reward -500 < mydot 15:62
+Episode 222 : reward -500 < mydot 8:62
+Episode 223 : reward -500 < mydot 5:62
+Episode 224 : reward -500 < mydot 7:62
+Episode 225 : reward -500 < mydot 16:62
+Episode 226 : reward -500 < mydot 13:62
+Episode 227 : reward -500 < mydot 10:62
+Episode 228 : reward -500 < mydot 15:62
+Episode 229 : reward -500 < mydot 2:62
+Episode 230 : reward -500 < mydot 5:62
+Episode 231 : reward -500 < mydot 5:62
+Episode 232 : reward -500 < mydot 9:62
+Episode 233 : reward -500 < mydot 5:62
+Episode 234 : reward -500 < mydot 9:62
+Episode 235 : reward -500 < mydot 9:62
+Episode 236 : reward -500 < mydot 5:62
+Episode 237 : reward -500 < mydot 9:62
+Episode 238 : reward -500 < mydot 9:62
+Episode 239 : reward -500 < mydot 8:62
+Episode 240 : reward -500 < mydot 9:62
+Episode 241 : reward -500 < mydot 12:62
+Episode 242 : reward -500 < mydot 15:62
+Episode 243 : reward -500 < mydot 11:62
+Episode 244 : reward -500 < mydot 5:62
+Episode 245 : reward -500 < mydot 10:62
+Episode 246 : reward -500 < mydot 9:62
+Episode 247 : reward -500 < mydot 9:62
+Episode 248 : reward -500 < mydot 8:62
+Episode 249 : reward -500 < mydot 6:62
+Episode 250 : reward -500 < mydot 6:62
+Episode 251 : reward -500 < mydot 8:62
+Episode 252 : reward -500 < mydot 6:62
+Episode 253 : reward -500 < mydot 6:62
+Episode 254 : reward -500 < mydot 6:62
+Episode 255 : reward -500 < mydot 8:62
+Episode 256 : reward -500 < mydot 5:62
+Episode 257 : reward -500 < mydot 9:62
+Episode 258 : reward -500 < mydot 6:62
+Episode 259 : reward -500 < mydot 10:62
+Episode 260 : reward -500 < mydot 9:62
+Episode 261 : reward -500 < mydot 5:62
+Episode 262 : reward -500 < mydot 8:62
+Episode 263 : reward -500 < mydot 5:62
+Episode 264 : reward -500 < mydot 9:62
+Episode 265 : reward -500 < mydot 8:62
+Episode 266 : reward -500 < mydot 5:62
+Episode 267 : reward -500 < mydot 6:62
+Episode 268 : reward -500 < mydot 8:62
+Episode 269 : reward -500 < mydot 8:62
+Episode 270 : reward -500 < mydot 5:62
+Episode 271 : reward -500 < mydot 6:62
+Episode 272 : reward -500 < mydot 5:62
+Episode 273 : reward -500 < mydot 8:62
+Episode 274 : reward -500 < mydot 5:62
+Episode 275 : reward -500 < mydot 7:62
+Episode 276 : reward -500 < mydot 9:62
+Episode 277 : reward -500 < mydot 5:62
+Episode 278 : reward -500 < mydot 7:62
+Episode 279 : reward -500 < mydot 6:62
+Episode 280 : reward -500 < mydot 5:62
+Episode 281 : reward -500 < mydot 8:62
+Episode 282 : reward -500 < mydot 8:62
+Episode 283 : reward -500 < mydot 5:62
+Episode 284 : reward -500 < mydot 5:62
+Episode 285 : reward -500 < mydot 8:62
+Episode 286 : reward -500 < mydot 5:62
+Episode 287 : reward -500 < mydot 11:62
+Episode 288 : reward -500 < mydot 5:62
+Episode 289 : reward -500 < mydot 17:62
+Episode 290 : reward -500 < mydot 2:62
+Episode 291 : reward -500 < mydot 10:62
+Episode 292 : reward -500 < mydot 7:62
+Episode 293 : reward -500 < mydot 9:62
+Episode 294 : reward -500 < mydot 9:62
+Episode 295 : reward -500 < mydot 14:62
+Episode 296 : reward -500 < mydot 5:62
+Episode 297 : reward -500 < mydot 12:62
+Episode 298 : reward -500 < mydot 18:62
+Episode 299 : reward -500 < mydot 12:62
+Episode 300 : reward -500 < mydot 5:62
+Episode 301 : reward -500 < mydot 5:62
+Episode 302 : reward -500 < mydot 13:62
+Episode 303 : reward -500 < mydot 8:62
+Episode 304 : reward -500 < mydot 8:62
+Episode 305 : reward -500 < mydot 8:62
+Episode 306 : reward -500 < mydot 9:62
+Episode 307 : reward -500 < mydot 4:62
+Episode 308 : reward -500 < mydot 4:62
+Episode 309 : reward -500 < mydot 8:62
+Episode 310 : reward -500 < mydot 11:62
+Episode 311 : reward -500 < mydot 5:62
+Episode 312 : reward -500 < mydot 8:62
+Episode 313 : reward -500 < mydot 11:62
+Episode 314 : reward -500 < mydot 9:62
+Episode 315 : reward -500 < mydot 9:62
+Episode 316 : reward -500 < mydot 5:62
+Episode 317 : reward -500 < mydot 4:62
+Episode 318 : reward -500 < mydot 8:62
+Episode 319 : reward -500 < mydot 11:62
+Episode 320 : reward -500 < mydot 4:62
+Episode 321 : reward -500 < mydot 9:62
+Episode 322 : reward -500 < mydot 12:62
+Episode 323 : reward -500 < mydot 8:62
+Episode 324 : reward -500 < mydot 5:62
+Episode 325 : reward -500 < mydot 5:62
+Episode 326 : reward -500 < mydot 4:62
+Episode 327 : reward -500 < mydot 12:62
+Episode 328 : reward -500 < mydot 7:62
+Episode 329 : reward -500 < mydot 4:62
+Episode 330 : reward -500 < mydot 4:62
+Episode 331 : reward -500 < mydot 5:62
+Episode 332 : reward -500 < mydot 10:62
+Episode 333 : reward -500 < mydot 4:62
+Episode 334 : reward -500 < mydot 8:62
+Episode 335 : reward -500 < mydot 5:62
+Episode 336 : reward -500 < mydot 4:62
+Episode 337 : reward -500 < mydot 10:62
+Episode 338 : reward -500 < mydot 5:62
+Episode 339 : reward -500 < mydot 2:62
+Episode 340 : reward -500 < mydot 5:62
+Episode 341 : reward -500 < mydot 8:62
+Episode 342 : reward -500 < mydot 13:62
+Episode 343 : reward -500 < mydot 6:62
+Episode 344 : reward -500 < mydot 6:62
+Episode 345 : reward -500 < mydot 15:62
+Episode 346 : reward -500 < mydot 6:62
+Episode 347 : reward -500 < mydot 6:62
+Episode 348 : reward -500 < mydot 5:62
+Episode 349 : reward -500 < mydot 9:62
+Episode 350 : reward -500 < mydot 5:62
+Episode 351 : reward -500 < mydot 4:62
+Episode 352 : reward -500 < mydot 4:62
+Episode 353 : reward -500 < mydot 4:62
+Episode 354 : reward -500 < mydot 9:62
+Episode 355 : reward -500 < mydot 9:62
+Episode 356 : reward -500 < mydot 9:62
+Episode 357 : reward -500 < mydot 5:62
+Episode 358 : reward -500 < mydot 6:62
+Episode 359 : reward -500 < mydot 2:62
+Episode 360 : reward -500 < mydot 10:62
+Episode 361 : reward -500 < mydot 5:62
+Episode 362 : reward -500 < mydot 6:62
+Episode 363 : reward -500 < mydot 10:62
+Episode 364 : reward -500 < mydot 10:62
+Episode 365 : reward -500 < mydot 2:62
+Episode 366 : reward -500 < mydot 10:62
+Episode 367 : reward -500 < mydot 2:62
+Episode 368 : reward -500 < mydot 6:62
+Episode 369 : reward -500 < mydot 10:62
+Episode 370 : reward -500 < mydot 12:62
+Episode 371 : reward -500 < mydot 11:62
+Episode 372 : reward -500 < mydot 5:62
+Episode 373 : reward -500 < mydot 10:62
+Episode 374 : reward -500 < mydot 2:62
+Episode 375 : reward -500 < mydot 10:62
+Episode 376 : reward -500 < mydot 2:62
+Episode 377 : reward -500 < mydot 6:62
+Episode 378 : reward -500 < mydot 9:62
+Episode 379 : reward -500 < mydot 2:62
+Episode 380 : reward -500 < mydot 11:62
+Episode 381 : reward -500 < mydot 9:62
+Episode 382 : reward -500 < mydot 6:62
+Episode 383 : reward -500 < mydot 14:62
+Episode 384 : reward -500 < mydot 2:62
+Episode 385 : reward -500 < mydot 2:62
+Episode 386 : reward -500 < mydot 11:62
+Episode 387 : reward -500 < mydot 2:62
+Episode 388 : reward -500 < mydot 9:62
+Episode 389 : reward -500 < mydot 2:62
+Episode 390 : reward -500 < mydot 2:62
+Episode 391 : reward -500 < mydot 2:62
+Episode 392 : reward -500 < mydot 10:62
+Episode 393 : reward -500 < mydot 2:62
+Episode 394 : reward -500 < mydot 9:62
+Episode 395 : reward -500 < mydot 6:62
+Episode 396 : reward -500 < mydot 9:62
+Episode 397 : reward -500 < mydot 2:62
+Episode 398 : reward -500 < mydot 5:62
+Episode 399 : reward -500 < mydot 11:62
+Episode 400 : reward -500 < mydot 8:62
+Episode 401 : reward -500 < mydot 13:62
+Episode 402 : reward -500 < mydot 13:62
+Episode 403 : reward -500 < mydot 2:62
+Episode 404 : reward -500 < mydot 9:62
+Episode 405 : reward -500 < mydot 11:62
+Episode 406 : reward -500 < mydot 11:62
+Episode 407 : reward -500 < mydot 10:62
+Episode 408 : reward -500 < mydot 9:62
+Episode 409 : reward -500 < mydot 9:62
+Episode 410 : reward -500 < mydot 5:62
+Episode 411 : reward -500 < mydot 1:62
+Episode 412 : reward -500 < mydot 6:62
+Episode 413 : reward -500 < mydot 1:62
+Episode 414 : reward -500 < mydot 1:62
+Episode 415 : reward -500 < mydot 9:62
+Episode 416 : reward -500 < mydot 10:62
+Episode 417 : reward -500 < mydot 9:62
+Episode 418 : reward -500 < mydot 10:62
+Episode 419 : reward -500 < mydot 7:62
+Episode 420 : reward -500 < mydot 2:62
+Episode 421 : reward -500 < mydot 9:62
+Episode 422 : reward -500 < mydot 9:62
+Episode 423 : reward -500 < mydot 1:62
+Episode 424 : reward -500 < mydot 6:62
+Episode 425 : reward -500 < mydot 6:62
+Episode 426 : reward -500 < mydot 5:62
+Episode 427 : reward -500 < mydot 9:62
+Episode 428 : reward -500 < mydot 9:62
+Episode 429 : reward -500 < mydot 5:62
+Episode 430 : reward -500 < mydot 9:62
+Episode 431 : reward -500 < mydot 5:62
+Episode 432 : reward -500 < mydot 5:62
+Episode 433 : reward -500 < mydot 6:62
+Episode 434 : reward -500 < mydot 6:62
+Episode 435 : reward -500 < mydot 9:62
+Episode 436 : reward -500 < mydot 1:62
+Episode 437 : reward -500 < mydot 9:62
+Episode 438 : reward -500 < mydot 2:62
+Episode 439 : reward -500 < mydot 9:62
+Episode 440 : reward -500 < mydot 1:62
+Episode 441 : reward -500 < mydot 9:62
+Episode 442 : reward -500 < mydot 1:62
+Episode 443 : reward -500 < mydot 14:62
+Episode 444 : reward -500 < mydot 11:62
+Episode 445 : reward -500 < mydot 10:62
+Episode 446 : reward -500 < mydot 2:62
+Episode 447 : reward -500 < mydot 1:62
+Episode 448 : reward -500 < mydot 12:62
+Episode 449 : reward -500 < mydot 1:62
+Episode 450 : reward -500 < mydot 2:62
+Episode 451 : reward -500 < mydot 2:62
+Episode 452 : reward -500 < mydot 2:62
+Episode 453 : reward -500 < mydot 2:62
+Episode 454 : reward -500 < mydot 2:62
+Episode 455 : reward -500 < mydot 16:62
+Episode 456 : reward -500 < mydot 1:62
+Episode 457 : reward -500 < mydot 6:62
+Episode 458 : reward -500 < mydot 2:62
+Episode 459 : reward -500 < mydot 18:62
+Episode 460 : reward -500 < mydot 3:62
+Episode 461 : reward -500 < mydot 1:62
+Episode 462 : reward -500 < mydot 13:62
+Episode 463 : reward -500 < mydot 2:62
+Episode 464 : reward -500 < mydot 2:62
+Episode 465 : reward -500 < mydot 2:62
+Episode 466 : reward -500 < mydot 2:62
+Episode 467 : reward -500 < mydot 5:62
+Episode 468 : reward -500 < mydot 2:62
+Episode 469 : reward -500 < mydot 10:62
+Episode 470 : reward -500 < mydot 13:62
+Episode 471 : reward -500 < mydot 7:62
+Episode 472 : reward -500 < mydot 7:62
+Episode 473 : reward -500 < mydot 4:62
+Episode 474 : reward -500 < mydot 10:62
+Episode 475 : reward -500 < mydot 8:62
+Episode 476 : reward -500 < mydot 7:62
+Episode 477 : reward -500 < mydot 4:62
+Episode 478 : reward -500 < mydot 7:62
+Episode 479 : reward -500 < mydot 10:62
+Episode 480 : reward -500 < mydot 12:62
+Episode 481 : reward -500 < mydot 4:62
+Episode 482 : reward -500 < mydot 8:62
+Episode 483 : reward -500 < mydot 7:62
+Episode 484 : reward -500 < mydot 4:62
+Episode 485 : reward -500 < mydot 5:62
+Episode 486 : reward -500 < mydot 7:62
+Episode 487 : reward -500 < mydot 12:62
+Episode 488 : reward -500 < mydot 5:62
+Episode 489 : reward -500 < mydot 4:62
+Episode 490 : reward -500 < mydot 9:62
+Episode 491 : reward -500 < mydot 8:62
+Episode 492 : reward -500 < mydot 12:62
+Episode 493 : reward -500 < mydot 7:62
+Episode 494 : reward -500 < mydot 8:62
+Episode 495 : reward -500 < mydot 8:62
+Episode 496 : reward -500 < mydot 4:62
+Episode 497 : reward -500 < mydot 7:62
+Episode 498 : reward -500 < mydot 12:62
+Episode 499 : reward -500 < mydot 1:62
+Episode 500 : reward -500 < mydot 8:62
+Episode 501 : reward -500 < mydot 9:62
+Episode 502 : reward -500 < mydot 7:62
+Episode 503 : reward -500 < mydot 13:62
+Episode 504 : reward -500 < mydot 11:62
+Episode 505 : reward -500 < mydot 2:62
+Episode 506 : reward -500 < mydot 11:62
+Episode 507 : reward -500 < mydot 6:62
+Episode 508 : reward -500 < mydot 2:62
+Episode 509 : reward -500 < mydot 12:62
+Episode 510 : reward -500 < mydot 2:62
+Episode 511 : reward -500 < mydot 6:62
+Episode 512 : reward -500 < mydot 4:62
+Episode 513 : reward -500 < mydot 10:62
+Episode 514 : reward -500 < mydot 5:62
+Episode 515 : reward -500 < mydot 7:62
+Episode 516 : reward -500 < mydot 1:62
+Episode 517 : reward -500 < mydot 8:62
+Episode 518 : reward -500 < mydot 1:62
+Episode 519 : reward -500 < mydot 8:62
+Episode 520 : reward -500 < mydot 1:62
+Episode 521 : reward -500 < mydot 8:62
+Episode 522 : reward -500 < mydot 1:62
+Episode 523 : reward -500 < mydot 2:62
+Episode 524 : reward -500 < mydot 2:62
+Episode 525 : reward -500 < mydot 9:62
+Episode 526 : reward -500 < mydot 2:62
+Episode 527 : reward -500 < mydot 4:62
+Episode 528 : reward -500 < mydot 5:62
+Episode 529 : reward -500 < mydot 9:62
+Episode 530 : reward -500 < mydot 2:62
+Episode 531 : reward -500 < mydot 12:62
+Episode 532 : reward -500 < mydot 2:62
+Episode 533 : reward -500 < mydot 10:62
+Episode 534 : reward -500 < mydot 2:62
+Episode 535 : reward -500 < mydot 12:62
+Episode 536 : reward -500 < mydot 1:62
+Episode 537 : reward -500 < mydot 13:62
+Episode 538 : reward -500 < mydot 8:62
+Episode 539 : reward -500 < mydot 2:62
+Episode 540 : reward -500 < mydot 13:62
+Episode 541 : reward -500 < mydot 7:62
+Episode 542 : reward -500 < mydot 9:62
+Episode 543 : reward -500 < mydot 2:62
+Episode 544 : reward -500 < mydot 6:62
+Episode 545 : reward -500 < mydot 2:62
+Episode 546 : reward -500 < mydot 10:62
+Episode 547 : reward -500 < mydot 6:62
+Episode 548 : reward -500 < mydot 2:62
+Episode 549 : reward -500 < mydot 9:62
+Episode 550 : reward -500 < mydot 1:62
+Episode 551 : reward -500 < mydot 1:62
+Episode 552 : reward -500 < mydot 2:62
+Episode 553 : reward -500 < mydot 10:62
+Episode 554 : reward -500 < mydot 2:62
+Episode 555 : reward -500 < mydot 2:62
+Episode 556 : reward -500 < mydot 2:62
+Episode 557 : reward -500 < mydot 3:62
+Episode 558 : reward -500 < mydot 18:62
+Episode 559 : reward -500 < mydot 2:62
+Episode 560 : reward -500 < mydot 5:62
+Episode 561 : reward -500 < mydot 19:62
+Episode 562 : reward -500 < mydot 13:62
+Episode 563 : reward -500 < mydot 10:62
+Episode 564 : reward -500 < mydot 2:62
+Episode 565 : reward -500 < mydot 11:62
+Episode 566 : reward -500 < mydot 2:62
+Episode 567 : reward -500 < mydot 12:62
+Episode 568 : reward -500 < mydot 6:62
+Episode 569 : reward -500 < mydot 2:62
+Episode 570 : reward -500 < mydot 11:62
+Episode 571 : reward -500 < mydot 2:62
+Episode 572 : reward -500 < mydot 9:62
+Episode 573 : reward -500 < mydot 2:62
+Episode 574 : reward -500 < mydot 2:62
+Episode 575 : reward -500 < mydot 2:62
+Episode 576 : reward -500 < mydot 6:62
+Episode 577 : reward -500 < mydot 2:62
+Episode 578 : reward -500 < mydot 13:62
+Episode 579 : reward -500 < mydot 3:62
+Episode 580 : reward -500 < mydot 12:62
+Episode 581 : reward -500 < mydot 2:62
+Episode 582 : reward -500 < mydot 12:62
+Episode 583 : reward -500 < mydot 2:62
+Episode 584 : reward -500 < mydot 2:62
+Episode 585 : reward -500 < mydot 6:62
+Episode 586 : reward -500 < mydot 2:62
+Episode 587 : reward -500 < mydot 18:62
+Episode 588 : reward -500 < mydot 14:62
+Episode 589 : reward -500 < mydot 2:62
+Episode 590 : reward -500 < mydot 2:62
+Episode 591 : reward -500 < mydot 17:62
+Episode 592 : reward -500 < mydot 13:62
+Episode 593 : reward -500 < mydot 8:62
+Episode 594 : reward -500 < mydot 2:62
+Episode 595 : reward -500 < mydot 13:62
+Episode 596 : reward -500 < mydot 12:62
+Episode 597 : reward -500 < mydot 5:62
+Episode 598 : reward -500 < mydot 2:62
+Episode 599 : reward -500 < mydot 2:62
+Episode 600 : reward -500 < mydot 2:62
+Episode 601 : reward -500 < mydot 3:62
+Episode 602 : reward -500 < mydot 2:62
+Episode 603 : reward -500 < mydot 6:62
+Episode 604 : reward -500 < mydot 12:62
+Episode 605 : reward -500 < mydot 2:62
+Episode 606 : reward -500 < mydot 10:62
+Episode 607 : reward -500 < mydot 11:62
+Episode 608 : reward -500 < mydot 1:62
+Episode 609 : reward -500 < mydot 11:62
+Episode 610 : reward -500 < mydot 2:62
+Episode 611 : reward -500 < mydot 10:62
+Episode 612 : reward -500 < mydot 7:62
+Episode 613 : reward -500 < mydot 7:62
+Episode 614 : reward -500 < mydot 4:62
+Episode 615 : reward -500 < mydot 2:62
+Episode 616 : reward -500 < mydot 10:62
+Episode 617 : reward -500 < mydot 6:62
+Episode 618 : reward -500 < mydot 10:62
+Episode 619 : reward -500 < mydot 7:62
+Episode 620 : reward -500 < mydot 2:62
+Episode 621 : reward -500 < mydot 10:62
+Episode 622 : reward -500 < mydot 12:62
+Episode 623 : reward -500 < mydot 6:62
+Episode 624 : reward -500 < mydot 10:62
+Episode 625 : reward -500 < mydot 10:62
+Episode 626 : reward -500 < mydot 4:62
+Episode 627 : reward -500 < mydot 10:62
+Episode 628 : reward -500 < mydot 11:62
+Episode 629 : reward -500 < mydot 6:62
+Episode 630 : reward -500 < mydot 1:62
+Episode 631 : reward -500 < mydot 11:62
+Episode 632 : reward -500 < mydot 11:62
+Episode 633 : reward -500 < mydot 2:62
+Episode 634 : reward -500 < mydot 12:62
+Episode 635 : reward -500 < mydot 8:62
+Episode 636 : reward -500 < mydot 2:62
+Episode 637 : reward -500 < mydot 1:62
+Episode 638 : reward -500 < mydot 2:62
+Episode 639 : reward -500 < mydot 21:62
+Episode 640 : reward -500 < mydot 1:62
+Episode 641 : reward -500 < mydot 10:62
+Episode 642 : reward -500 < mydot 9:62
+Episode 643 : reward -500 < mydot 6:62
+Episode 644 : reward -500 < mydot 2:62
+Episode 645 : reward -500 < mydot 2:62
+Episode 646 : reward -500 < mydot 6:62
+Episode 647 : reward -500 < mydot 2:62
+Episode 648 : reward -500 < mydot 2:62
+Episode 649 : reward -500 < mydot 11:62
+Episode 650 : reward -500 < mydot 2:62
+Episode 651 : reward -500 < mydot 2:62
+Episode 652 : reward -500 < mydot 2:62
+Episode 653 : reward -500 < mydot 7:62
+Episode 654 : reward -500 < mydot 2:62
+Episode 655 : reward -500 < mydot 9:62
+Episode 656 : reward -500 < mydot 1:62
+Episode 657 : reward -500 < mydot 15:62
+Episode 658 : reward -500 < mydot 2:62
+Episode 659 : reward -500 < mydot 2:62
+Episode 660 : reward -500 < mydot 10:62
+Episode 661 : reward -500 < mydot 2:62
+Episode 662 : reward -500 < mydot 9:62
+Episode 663 : reward -500 < mydot 16:62
+Episode 664 : reward -500 < mydot 2:62
+Episode 665 : reward -500 < mydot 14:62
+Episode 666 : reward -500 < mydot 2:62
+Episode 667 : reward -500 < mydot 14:62
+Episode 668 : reward -500 < mydot 2:62
+Episode 669 : reward -500 < mydot 15:62
+Episode 670 : reward -500 < mydot 11:62
+Episode 671 : reward -500 < mydot 1:62
+Episode 672 : reward -500 < mydot 2:62
+Episode 673 : reward -500 < mydot 15:62
+Episode 674 : reward -500 < mydot 2:62
+Episode 675 : reward -500 < mydot 1:62
+Episode 676 : reward -500 < mydot 1:62
+Episode 677 : reward -500 < mydot 2:62
+Episode 678 : reward -500 < mydot 2:62
+Episode 679 : reward -500 < mydot 1:62
+Episode 680 : reward -500 < mydot 13:62
+Episode 681 : reward -500 < mydot 1:62
+Episode 682 : reward -500 < mydot 2:62
+Episode 683 : reward -500 < mydot 5:62
+Episode 684 : reward -500 < mydot 8:62
+Episode 685 : reward -500 < mydot 2:62
+Episode 686 : reward -500 < mydot 9:62
+Episode 687 : reward -500 < mydot 9:62
+Episode 688 : reward -500 < mydot 8:62
+Episode 689 : reward -500 < mydot 8:62
+Episode 690 : reward -500 < mydot 9:62
+Episode 691 : reward -500 < mydot 8:62
+Episode 692 : reward -500 < mydot 2:62
+Episode 693 : reward -500 < mydot 6:62
+Episode 694 : reward -500 < mydot 13:62
+Episode 695 : reward -500 < mydot 2:62
+Episode 696 : reward -500 < mydot 20:62
+Episode 697 : reward -500 < mydot 2:62
+Episode 698 : reward -500 < mydot 6:62
+Episode 699 : reward -500 < mydot 10:62
+Episode 700 : reward -500 < mydot 3:62
+Episode 701 : reward -500 < mydot 10:62
+Episode 702 : reward -500 < mydot 2:62
+Episode 703 : reward -500 < mydot 9:62
+Episode 704 : reward -500 < mydot 6:62
+Episode 705 : reward -500 < mydot 8:62
+Episode 706 : reward -500 < mydot 6:62
+Episode 707 : reward -500 < mydot 10:62
+Episode 708 : reward -500 < mydot 1:62
+Episode 709 : reward -500 < mydot 2:62
+Episode 710 : reward -500 < mydot 18:62
+Episode 711 : reward -500 < mydot 2:62
+Episode 712 : reward -500 < mydot 1:62
+Episode 713 : reward -500 < mydot 9:62
+Episode 714 : reward -500 < mydot 1:62
+Episode 715 : reward -500 < mydot 8:62
+Episode 716 : reward -500 < mydot 9:62
+Episode 717 : reward -500 < mydot 2:62
+Episode 718 : reward -500 < mydot 2:62
+Episode 719 : reward -500 < mydot 6:62
+Episode 720 : reward -500 < mydot 6:62
+Episode 721 : reward -500 < mydot 14:62
+Episode 722 : reward -500 < mydot 9:62
+Episode 723 : reward -500 < mydot 8:62
+Episode 724 : reward -500 < mydot 3:62
+Episode 725 : reward -500 < mydot 19:62
+Episode 726 : reward -500 < mydot 2:62
+Episode 727 : reward -500 < mydot 11:62
+Episode 728 : reward -500 < mydot 2:62
+Episode 729 : reward -500 < mydot 2:62
+Episode 730 : reward -500 < mydot 8:62
+Episode 731 : reward -500 < mydot 2:62
+Episode 732 : reward -500 < mydot 10:62
+Episode 733 : reward -500 < mydot 2:62
+Episode 734 : reward -500 < mydot 2:62
+Episode 735 : reward -500 < mydot 2:62
+Episode 736 : reward -500 < mydot 10:62
+Episode 737 : reward -500 < mydot 10:62
+Episode 738 : reward -500 < mydot 2:62
+Episode 739 : reward -500 < mydot 14:62
+Episode 740 : reward -500 < mydot 21:62
+Episode 741 : reward -500 < mydot 5:62
+Episode 742 : reward -500 < mydot 5:62
+Episode 743 : reward -500 < mydot 18:62
+Episode 744 : reward -500 < mydot 10:62
+Episode 745 : reward -500 < mydot 9:62
+Episode 746 : reward -500 < mydot 9:62
+Episode 747 : reward -500 < mydot 7:62
+Episode 748 : reward -500 < mydot 2:62
+Episode 749 : reward -500 < mydot 6:62
+Episode 750 : reward -500 < mydot 2:62
+Episode 751 : reward -500 < mydot 13:62
+Episode 752 : reward -500 < mydot 2:62
+Episode 753 : reward -500 < mydot 7:62
+Episode 754 : reward -500 < mydot 18:62
+Episode 755 : reward -500 < mydot 2:62
+Episode 756 : reward -500 < mydot 1:62
+Episode 757 : reward -500 < mydot 2:62
+Episode 758 : reward -500 < mydot 2:62
+Episode 759 : reward -500 < mydot 19:62
+Episode 760 : reward -500 < mydot 11:62
+Episode 761 : reward -500 < mydot 2:62
+Episode 762 : reward -500 < mydot 7:62
+Episode 763 : reward -500 < mydot 14:62
+Episode 764 : reward -500 < mydot 2:62
+Episode 765 : reward -500 < mydot 10:62
+Episode 766 : reward -500 < mydot 10:62
+Episode 767 : reward -500 < mydot 12:62
+Episode 768 : reward -500 < mydot 2:62
+Episode 769 : reward -500 < mydot 10:62
+Episode 770 : reward -500 < mydot 2:62
+Episode 771 : reward -500 < mydot 7:62
+Episode 772 : reward -500 < mydot 10:62
+Episode 773 : reward -500 < mydot 2:62
+Episode 774 : reward -500 < mydot 17:62
+Episode 775 : reward -500 < mydot 18:62
+Episode 776 : reward -500 < mydot 2:62
+Episode 777 : reward -500 < mydot 2:62
+Episode 778 : reward -500 < mydot 10:62
+Episode 779 : reward -500 < mydot 9:62
+Episode 780 : reward -500 < mydot 1:62
+Episode 781 : reward -500 < mydot 9:62
+Episode 782 : reward -500 < mydot 2:62
+Episode 783 : reward -500 < mydot 9:62
+Episode 784 : reward -500 < mydot 2:62
+Episode 785 : reward -500 < mydot 2:62
+Episode 786 : reward -500 < mydot 5:62
+Episode 787 : reward -500 < mydot 6:62
+Episode 788 : reward -500 < mydot 1:62
+Episode 789 : reward -500 < mydot 1:62
+Episode 790 : reward -500 < mydot 8:62
+Episode 791 : reward -500 < mydot 1:62
+Episode 792 : reward -500 < mydot 2:62
+Episode 793 : reward -500 < mydot 8:62
+Episode 794 : reward -500 < mydot 1:62
+Episode 795 : reward -500 < mydot 1:62
+Episode 796 : reward -500 < mydot 6:62
+Episode 797 : reward -500 < mydot 10:62
+Episode 798 : reward -500 < mydot 10:62
+Episode 799 : reward -500 < mydot 1:62
+Episode 800 : reward -500 < mydot 5:62
+Episode 801 : reward -500 < mydot 5:62
+Episode 802 : reward -500 < mydot 1:62
+Episode 803 : reward -500 < mydot 9:62
+Episode 804 : reward -500 < mydot 1:62
+Episode 805 : reward -500 < mydot 2:62
+Episode 806 : reward -500 < mydot 6:62
+Episode 807 : reward -500 < mydot 2:62
+Episode 808 : reward -500 < mydot 9:62
+Episode 809 : reward -500 < mydot 1:62
+Episode 810 : reward -500 < mydot 8:62
+Episode 811 : reward -500 < mydot 1:62
+Episode 812 : reward -500 < mydot 1:62
+Episode 813 : reward -500 < mydot 5:62
+Episode 814 : reward -500 < mydot 1:62
+Episode 815 : reward -500 < mydot 2:62
+Episode 816 : reward -500 < mydot 1:62
+Episode 817 : reward -500 < mydot 9:62
+Episode 818 : reward -500 < mydot 8:62
+Episode 819 : reward -500 < mydot 8:62
+Episode 820 : reward -500 < mydot 1:62
+Episode 821 : reward -500 < mydot 9:62
+Episode 822 : reward -500 < mydot 9:62
+Episode 823 : reward -500 < mydot 1:62
+Episode 824 : reward -500 < mydot 1:62
+Episode 825 : reward -500 < mydot 9:62
+Episode 826 : reward -500 < mydot 2:62
+Episode 827 : reward -500 < mydot 2:62
+Episode 828 : reward -500 < mydot 1:62
+Episode 829 : reward -500 < mydot 1:62
+Episode 830 : reward -500 < mydot 1:62
+Episode 831 : reward -500 < mydot 8:62
+Episode 832 : reward -500 < mydot 1:62
+Episode 833 : reward -500 < mydot 8:62
+Episode 834 : reward -500 < mydot 8:62
+Episode 835 : reward -500 < mydot 2:62
+Episode 836 : reward -500 < mydot 9:62
+Episode 837 : reward -500 < mydot 1:62
+Episode 838 : reward -500 < mydot 1:62
+Episode 839 : reward -500 < mydot 5:62
+Episode 840 : reward -500 < mydot 8:62
+Episode 841 : reward -500 < mydot 1:62
+Episode 842 : reward -500 < mydot 9:62
+Episode 843 : reward -500 < mydot 9:62
+Episode 844 : reward -500 < mydot 9:62
+Episode 845 : reward -500 < mydot 9:62
+Episode 846 : reward -500 < mydot 9:62
+Episode 847 : reward -500 < mydot 8:62
+Episode 848 : reward -500 < mydot 2:62
+Episode 849 : reward -500 < mydot 1:62
+Episode 850 : reward -500 < mydot 8:62
+Episode 851 : reward -500 < mydot 1:62
+Episode 852 : reward -500 < mydot 11:62
+Episode 853 : reward -500 < mydot 9:62
+Episode 854 : reward -500 < mydot 8:62
+Episode 855 : reward -500 < mydot 8:62
+Episode 856 : reward -500 < mydot 1:62
+Episode 857 : reward -500 < mydot 9:62
+Episode 858 : reward -500 < mydot 2:62
+Episode 859 : reward -500 < mydot 6:62
+Episode 860 : reward -500 < mydot 9:62
+Episode 861 : reward -500 < mydot 5:62
+Episode 862 : reward -500 < mydot 10:62
+Episode 863 : reward -500 < mydot 9:62
+Episode 864 : reward -500 < mydot 8:62
+Episode 865 : reward -500 < mydot 9:62
+Episode 866 : reward -500 < mydot 2:62
+Episode 867 : reward -500 < mydot 8:62
+Episode 868 : reward -500 < mydot 1:62
+Episode 869 : reward -500 < mydot 6:62
+Episode 870 : reward -500 < mydot 2:62
+Episode 871 : reward -500 < mydot 1:62
+Episode 872 : reward -500 < mydot 1:62
+Episode 873 : reward -500 < mydot 8:62
+Episode 874 : reward -500 < mydot 1:62
+Episode 875 : reward -500 < mydot 2:62
+Episode 876 : reward -500 < mydot 8:62
+Episode 877 : reward -500 < mydot 1:62
+Episode 878 : reward -500 < mydot 8:62
+Episode 879 : reward -500 < mydot 2:62
+Episode 880 : reward -500 < mydot 5:62
+Episode 881 : reward -500 < mydot 1:62
+Episode 882 : reward -500 < mydot 1:62
+Episode 883 : reward -500 < mydot 10:62
+Episode 884 : reward -500 < mydot 1:62
+Episode 885 : reward -500 < mydot 9:62
+Episode 886 : reward -500 < mydot 3:62
+Episode 887 : reward -500 < mydot 9:62
+Episode 888 : reward -500 < mydot 6:62
+Episode 889 : reward -500 < mydot 9:62
+Episode 890 : reward -500 < mydot 6:62
+Episode 891 : reward -500 < mydot 9:62
+Episode 892 : reward -500 < mydot 9:62
+Episode 893 : reward -500 < mydot 8:62
+Episode 894 : reward -500 < mydot 5:62
+Episode 895 : reward -500 < mydot 2:62
+Episode 896 : reward -500 < mydot 8:62
+Episode 897 : reward -500 < mydot 5:62
+Episode 898 : reward -500 < mydot 2:62
+Episode 899 : reward -500 < mydot 2:62
+Episode 900 : reward -500 < mydot 9:62
+Episode 901 : reward -500 < mydot 1:62
+Episode 902 : reward -500 < mydot 5:62
+Episode 903 : reward -500 < mydot 10:62
+Episode 904 : reward -500 < mydot 9:62
+Episode 905 : reward -500 < mydot 1:62
+Episode 906 : reward -500 < mydot 10:62
+Episode 907 : reward -500 < mydot 6:62
+Episode 908 : reward -500 < mydot 8:62
+Episode 909 : reward -500 < mydot 8:62
+Episode 910 : reward -500 < mydot 8:62
+Episode 911 : reward -500 < mydot 8:62
+Episode 912 : reward -500 < mydot 9:62
+Episode 913 : reward -500 < mydot 6:62
+Episode 914 : reward -500 < mydot 9:62
+Episode 915 : reward -500 < mydot 9:62
+Episode 916 : reward -500 < mydot 2:62
+Episode 917 : reward -500 < mydot 1:62
+Episode 918 : reward -500 < mydot 9:62
+Episode 919 : reward -500 < mydot 8:62
+Episode 920 : reward -500 < mydot 8:62
+Episode 921 : reward -500 < mydot 8:62
+Episode 922 : reward -500 < mydot 2:62
+Episode 923 : reward -500 < mydot 8:62
+Episode 924 : reward -500 < mydot 5:62
+Episode 925 : reward -500 < mydot 2:62
+Episode 926 : reward -500 < mydot 9:62
+Episode 927 : reward -500 < mydot 9:62
+Episode 928 : reward -500 < mydot 1:62
+Episode 929 : reward -500 < mydot 8:62
+Episode 930 : reward -500 < mydot 1:62
+Episode 931 : reward -500 < mydot 8:62
+Episode 932 : reward -500 < mydot 1:62
+Episode 933 : reward -500 < mydot 1:62
+Episode 934 : reward -500 < mydot 8:62
+Episode 935 : reward -500 < mydot 2:62
+Episode 936 : reward -500 < mydot 9:62
+Episode 937 : reward -500 < mydot 1:62
+Episode 938 : reward -500 < mydot 1:62
+Episode 939 : reward -500 < mydot 10:62
+Episode 940 : reward -500 < mydot 9:62
+Episode 941 : reward -500 < mydot 9:62
+Episode 942 : reward -500 < mydot 1:62
+Episode 943 : reward -500 < mydot 8:62
+Episode 944 : reward -500 < mydot 1:62
+Episode 945 : reward -500 < mydot 1:62
+Episode 946 : reward -500 < mydot 9:62
+Episode 947 : reward -500 < mydot 2:62
+Episode 948 : reward -500 < mydot 8:62
+Episode 949 : reward -500 < mydot 2:62
+Episode 950 : reward -500 < mydot 9:62
+Episode 951 : reward -500 < mydot 1:62
+Episode 952 : reward -500 < mydot 11:62
+Episode 953 : reward -500 < mydot 1:62
+Episode 954 : reward -500 < mydot 9:62
+Episode 955 : reward -500 < mydot 8:62
+Episode 956 : reward -500 < mydot 9:62
+Episode 957 : reward -500 < mydot 1:62
+Episode 958 : reward -500 < mydot 10:62
+Episode 959 : reward -500 < mydot 2:62
+Episode 960 : reward -500 < mydot 14:62
+Episode 961 : reward -500 < mydot 2:62
+Episode 962 : reward -500 < mydot 6:62
+Episode 963 : reward -500 < mydot 1:62
+Episode 964 : reward -500 < mydot 8:62
+Episode 965 : reward -500 < mydot 1:62
+Episode 966 : reward -500 < mydot 8:62
+Episode 967 : reward -500 < mydot 1:62
+Episode 968 : reward -500 < mydot 10:62
+Episode 969 : reward -500 < mydot 2:62
+Episode 970 : reward -500 < mydot 15:62
+Episode 971 : reward -500 < mydot 6:62
+Episode 972 : reward -500 < mydot 1:62
+Episode 973 : reward -500 < mydot 5:62
+Episode 974 : reward -500 < mydot 1:62
+Episode 975 : reward -500 < mydot 8:62
+Episode 976 : reward -500 < mydot 1:62
+Episode 977 : reward -500 < mydot 8:62
+Episode 978 : reward -500 < mydot 1:62
+Episode 979 : reward -500 < mydot 10:62
+Episode 980 : reward -500 < mydot 9:62
+Episode 981 : reward -500 < mydot 4:62
+Episode 982 : reward -500 < mydot 7:62
+Episode 983 : reward -500 < mydot 9:62
+Episode 984 : reward -500 < mydot 1:62
+Episode 985 : reward -500 < mydot 5:62
+Episode 986 : reward -500 < mydot 12:62
+Episode 987 : reward -500 < mydot 4:62
+Episode 988 : reward -500 < mydot 9:62
+Episode 989 : reward -500 < mydot 4:62
+Episode 990 : reward -500 < mydot 5:62
+Episode 991 : reward -500 < mydot 6:62
+Episode 992 : reward -500 < mydot 1:62
+Episode 993 : reward -500 < mydot 12:62
+Episode 994 : reward -500 < mydot 8:62
+Episode 995 : reward -500 < mydot 7:62
+Episode 996 : reward -500 < mydot 5:62
+Episode 997 : reward -500 < mydot 10:62
+Episode 998 : reward -500 < mydot 1:62
+Episode 999 : reward -500 < mydot 9:62
