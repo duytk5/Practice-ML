@@ -1,0 +1,31 @@
+# import tensorflow as tf
+#
+# from tensorflow.examples.tutorials.mnist import input_data
+# mnist = input_data.read_data_sets('MNIST-data/', one_hot= True)
+#
+# batch_x, batch_y = mnist.train.next_batch(100)
+# print(batch_x[0])
+# for xx in batch_x[0]:
+#     print(xx, ' ')
+# s = ''
+# for i in range(0, len( batch_x[0]) ):
+#     if (i % 28 == 0):
+#         print(s)
+#         s = ''
+#     if batch_x[0][i] == 0:
+#         s = s + '0'
+#     else:
+#         s = s + '1'
+
+import tensorflow as tf
+import numpy as np
+
+np_array = np.random.rand(3, 2)
+print(np_array)
+
+sess = tf.Session()
+with sess.as_default():
+    tensor = tf.constant(np_array)
+    print(tensor)
+    numpy_array_2 = tensor.eval()
+    print(numpy_array_2)
